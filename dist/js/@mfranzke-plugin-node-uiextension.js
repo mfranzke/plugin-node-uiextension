@@ -1,4 +1,4 @@
-/* global PluginUIExtension */
+/* global PluginUIExtension document */
 var PluginUIExtension = {
 
   /**
