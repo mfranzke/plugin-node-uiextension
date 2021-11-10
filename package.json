@@ -1,6 +1,6 @@
 {
   "name": "@mfranzke/plugin-node-uiextension",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-beta.0",
   "description": "Provide a simple PL chrome customization path versus forking the UIKit",
   "main": "index.js",
   "dependencies": {
