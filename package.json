@@ -13,8 +13,10 @@
     "url": "git+https://github.com/mfranzke/plugin-node-uiextension.git"
   },
   "scripts": {
-    "test": "eslint dist/js/@mfranzke-plugin-node-uiextension.js index.js",
-    "release": "np"
+    "test": "npm run lint",
+    "release": "np",
+    "lint": "eslint dist/js/@mfranzke-plugin-node-uiextension.js index.js postinstall.js",
+    "postinstall": "node ./postinstall.js"
   },
   "author": "Maximilian Franzke",
   "license": "MIT",
