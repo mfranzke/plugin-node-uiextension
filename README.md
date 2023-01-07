@@ -2,7 +2,8 @@
 [![npm](https://img.shields.io/npm/v/@mfranzke/plugin-node-uiextension.svg)](https://www.npmjs.com/package/@mfranzke/plugin-node-uiextension)
 [![Gitter](https://img.shields.io/gitter/room/pattern-lab/node.svg)](https://gitter.im/pattern-lab/node)
 
-This is a fork from the previous development by [Brian Muenzenmeyer](https://github.com/bmuenzenmeyer/plugin-node-uiextension/), so a lot of kudos should go to Brian for that ! I mainly wanted to optimize the code further and bring it to pattern lab 5 compatibility.
+| :point_up:    | This is a fork from the previous development by [Brian Muenzenmeyer](https://github.com/bmuenzenmeyer/plugin-node-uiextension/), so a lot of kudos should go to Brian for that ! I mainly wanted to optimize the code further and bring it to pattern lab 5 compatibility. |
+|---------------|:------------------------|
 
 # UI Extension Plugin for Pattern Lab Node
 
