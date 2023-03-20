@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "glob": "^7.0.0",
+    "glob": "^9.3.0",
     "lodash": "^4.17.21"
   },
   "repository": {
