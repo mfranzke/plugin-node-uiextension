@@ -4,7 +4,7 @@
   "description": "Provide a simple PL chrome customization path versus forking the UIKit",
   "main": "index.js",
   "dependencies": {
-    "fs-extra": "^0.30.0",
+    "fs-extra": "^11.1.1",
     "glob": "^7.0.0",
     "lodash": "^4.17.21"
   },
