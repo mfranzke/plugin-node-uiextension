@@ -26,6 +26,6 @@
   "homepage": "https://github.com/mfranzke/plugin-node-uiextension",
   "devDependencies": {
     "eslint": "^7.32.0",
-    "np": "^7.5.0"
+    "np": "^10.2.0"
   }
 }
